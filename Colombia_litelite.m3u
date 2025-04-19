@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="tvfamilia.com" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2f/Tvfamilia_logo.png/revision/latest?cb=20230712013853&path-prefix=es" group-title="Religious",TV Familia (480p)
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2049623906.m3u8
 #EXTINF:-1 tvg-id="TeleVid.co" tvg-logo="https://i.imgur.com/kVHJU5V.png" group-title="Religious",Tele Vid (1080p)
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -6,5 +8,7 @@
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Undefined",Red+ [Geo-blocked]
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 tvg-id="tvfamilia.com" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2f/Tvfamilia_logo.png/revision/latest?cb=20230712013853&path-prefix=es" group-title="Religious",TV Familia (480p)
-https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2049623906.m3u8
+#EXTINF:-1 tvg-id="Cristovision" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="Religious",Cristovision
+#EXTVLCOPT:http-referrer=https://conceptoweb-studio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8?DVR
