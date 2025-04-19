@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleVid.co" tvg-logo="https://i.imgur.com/kVHJU5V.png" group-title="Religious",Tele Vid (1080p)
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Undefined",Red+ [Geo-blocked]
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-id="tvfamilia.com" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2f/Tvfamilia_logo.png/revision/latest?cb=20230712013853&path-prefix=es" group-title="Religious",TV Familia (480p)
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2049623906.m3u8
